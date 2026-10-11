@@ -5,7 +5,7 @@
 | Team member | SRN |
 |---|---|
 | Mythri | PES1UG24AM419 |
-| Manya | PES1UG24AM365 |
+| Manya | PES1UG24AM376 |
 
 ## Problem statement
 
