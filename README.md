@@ -78,7 +78,7 @@ The `data/` folder is not in the repository because the files are too large. Dow
 Requires Python 3.11 or newer.
 
 ```
-git clone <this-repo-url>
+git clone https://github.com/mythri2506a/ml_mini_project.git
 cd ml_mini_project
 python -m pip install -r requirements.txt
 ```
